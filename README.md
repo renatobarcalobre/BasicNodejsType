@@ -22,4 +22,9 @@ Caso precise validar a versa od onode : node -v
           "dev": "tsx watch src/http/server.ts"
         },
 ```
-##Executar o comando npm run dev
+11. Executar o comando npm run dev
+
+
+## Rodar o projeto
+
+:computer: Após baixar o repositório, instalar suas dependencias através do comando: npm install. Após isso seguir o passo 11 :computer:
