@@ -28,3 +28,8 @@ Caso precise validar a versa od onode : node -v
 ## Rodar o projeto
 
 :computer: Após baixar o repositório, instalar suas dependencias através do comando: npm install. Após isso seguir o passo 11 :computer:
+
+
+
+##Bonus
+:computer: Adicionando o GitHub Actions ao repo: https://docs.github.com/pt/actions/learn-github-actions/understanding-github-actions :computer:
